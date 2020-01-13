@@ -11,3 +11,25 @@ MarkDown Notepad
 - first
 - second
 - third
+
+<pre>
+This is a normal
+</pre>
+
+<code>
+  #include stdio.h
+  
+  void main() {
+    printf("hello world");
+  }
+  </code>
+  
+<pre>
+<code>
+  #include stdio.h
+  
+  void main() {
+    printf("hello world");
+  }
+  </code>
+</pre>
