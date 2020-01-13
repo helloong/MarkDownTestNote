@@ -33,3 +33,8 @@ This is a normal
   }
   </code>
 </pre>
+
+<hr/>
+
+<http://www.google.com>
+<http://github.com>
