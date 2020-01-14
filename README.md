@@ -45,6 +45,8 @@ This is a normal
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
+Link: [This is inline link](http://www.google.com)
+
 *single asterisks*
 _single underscores_
 **double asterisks**
